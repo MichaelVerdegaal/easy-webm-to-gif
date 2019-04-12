@@ -4,8 +4,8 @@ This is a small script to convert all webm files in a folder to gifs.
 
 # Requirements
 
-An installation of Python 3.7+ 
-The moviepy package (```pip install moviepy``` in root python installation)
+- An installation of Python 3.7+ 
+- The moviepy package (```pip install moviepy``` in root python installation)
 
 # Usage
 
